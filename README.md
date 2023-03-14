@@ -26,3 +26,20 @@ To train a model, set settng='train' in the CAE_2DConv.py or CAE_3DConv.py scrip
 
 # Evaluate Model
 To evaluate/test a model, set settng='test' in the CAE_2DConv.py or CAE_3DConv.py script and run the above command.
+
+## Citation
+
+If you find this repository useful in your research, please consider citing:
+
+```
+@article{mishra2023,
+author={Mishra, Pratik K. and Iaboni, Andrea and Ye, Bing and Newman, Kristine and Mihailidis, Alex and Khan, Shehroz S.},
+title={Privacy-protecting behaviours of risk detection in people with dementia using videos},
+journal={BioMedical Engineering OnLine},
+year={2023},
+volume={22},
+number={1},
+pages={4},
+doi={10.1186/s12938-023-01065-3}
+}
+```
