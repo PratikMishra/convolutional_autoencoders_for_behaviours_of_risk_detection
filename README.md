@@ -1,2 +1,1 @@
-# convolutional_autoencoders_for_behaviours_of_risk_detection
-Code for the paper "Privacy-protecting behaviours of risk detection in people with dementia using videos"
+This is the code for the paper ["Privacy-protecting behaviours of risk detection in people with dementia using videos".](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01065-3)
