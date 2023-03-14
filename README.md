@@ -8,7 +8,7 @@ First please create an appropriate environment using conda:
 > conda activate torch
 
 # Data
-Due to ethical considerations, the data used in the paper cannot be made publicly available. Here, we have provided a sample data (sample_data.zip) for the purpose of running the code.
+Due to ethical considerations, the data used in the paper cannot be made publicly available. Here, we have provided a dummy data (sample_data.zip) for the purpose of running the code.
 
 # Running the models
 To run the model CAE_2DConv or CAE_3DConv, follow the below template:
