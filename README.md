@@ -15,7 +15,7 @@ To run the model CAE_2DConv or CAE_3DConv, follow the below template:
 
 > python <model_python_script> --num_workers <number_of_num_workers> --gpus <GPU_option> --max_epochs <number_of_epochs> --train_batch_size <batch_size_for_training> --train_file_path <Path_to_folder_containing_training_video_frames> --test_file_path <Path_to_folder_containing_test_video_frames> --label_file_path <Path_to_HDF5_file_containing_test_labels>
 
-GPU_option: set 0 to use CPU and -1 to set all available GPUs
+GPU_option: set 0 to use CPU and -1 to use all available GPUs
 
 Example:
 
