@@ -29,7 +29,7 @@ To evaluate/test a model, set settng='test' in the CAE_2DConv.py or CAE_3DConv.p
 
 ## Citation
 
-If you find this repository useful in your research, please consider citing:
+If you find this repository useful in your research, please cite:
 
 ```
 @article{mishra2023,
